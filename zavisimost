@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>зависимость</title>
+    <style>
+        body {
+            background-color: #f0f8ff; 
+        }
+        h1 {
+            color: blue;
+            font-family: 'Courier New', Courier, monospace;
+            font-size: 36px; 
+            border: 2px solid black; 
+        }
+        h2 {
+            color: blue;
+            font-family: 'Courier New', Courier, monospace;
+            font-size: 28px; 
+            border: 2px dashed black; 
+        }
+        p {
+            font-family: Arial, sans-serif;
+            font-size: 18px;
+            color: #333333;
+            border: 1px solid #000000; 
+            padding: 10px; 
+        }
+        ul {
+            font-family: Arial, sans-serif;
+            font-size: 18px;
+            color: #444444;
+            list-style-type: disc;
+        }
+        li {
+            margin-bottom: 8px;
+        }
+        a {
+            text-decoration: underline;
+            text-decoration-color: red; 
+            color: blue; 
+        }
+    </style>
+</head>
+<body>
+    <h1>Технологическая зависимость</h1>
+   
+    <p>это расстройство, при котором человек проводит большую часть времени с телефонами, компьютерами и другими подобными технологическими устройствами. Человек, страдающий технологической зависимостью, не переживает по этому поводу и не может легко бросить эту пагубную привычку.</p>
+    
+    <h2>Симптомы технологической зависимости</h2>
+    <ul>
+        <li>Проведение слишком большого количества часов за компьютером или без осознания этого.</li>
+        <li>Пребывание за компьютером до поздней ночи.</li>
+        <li>Ощущение пустоты вдали от компьютера, телефона.</li>
+        <li>Нарушение режима питания, отдыха и общения с друзьями ради доступа в Интернет.</li>
+        <li>Невозможность регулировать время использования техники.</li>
+        <li>Испытывать депрессию, стресс и напряжение из-за использования технологий.</li>
+        <li>Наслаждаться только цифровыми устройствами.</li>
+        <li>Ложь семье и друзьям о продолжительности использования.</li>
+    </ul>
+    <img src="https://tvoe-budushee.ru/wp-content/uploads/2019/07/internet-zavisimost-e1562741609126.jpg" alt="Image 1">
+</body>
+</html>
