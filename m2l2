@@ -17,7 +17,7 @@ facts_list = [
 
 @app.route("/")
 def hello_world():
-    return f'<h1>Hello, World!</h1> <a href="/facts/">рандомный факт</a> <a href="/facts/">орёл или решка</a>'
+    return f'<h1>Hello, World!</h1> <a href="/facts/">рандомный факт</a> <a href="/coin/">орёл или решка</a>'
 
 @app.route("/facts/")
 def get_fact():
